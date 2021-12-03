@@ -9,7 +9,7 @@ tags:
 - csus
 ---
 
-[![](http://1.bp.blogspot.com/_xmqk7LpXiyY/THx0dh-k-iI/AAAAAAAAAvg/f0Kf04gbsEs/s320/mainimage.jpg)](http://1.bp.blogspot.com/_xmqk7LpXiyY/THx0dh-k-iI/AAAAAAAAAvg/f0Kf04gbsEs/s1600/mainimage.jpg)Signs of the times, I guess, of the state of higher education in California.  
+[![](/images/mainimage320.jpg)](/images/mainimage.jpg)Signs of the times, I guess, of the state of higher education in California.  
   
 Due to ongoing class reductions, the CSUS computer science department has chosen to offer only one section of CSC 132, "Computing Theory". As an [Open University](http://www.cce.csus.edu/programs/openuniversity.htm) student, I attended today's first class session anyway, with hopes of accommodation, buoyed somewhat by the CSUS class scheduler's modification of the class status from "Waitlist" to "Open".  
   

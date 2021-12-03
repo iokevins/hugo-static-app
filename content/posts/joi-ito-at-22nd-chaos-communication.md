@@ -4,7 +4,7 @@ date: 2006-04-25T23:28:00.000-07:00
 draft: false
 ---
 
-[![](http://photos1.blogger.com/blogger/7849/1444/200/joi_ito.1.jpg)](http://photos1.blogger.com/blogger/7849/1444/1600/joi_ito.1.jpg)  
+[![](/images/joi_ito.1320.jpg)](/images/joi_ito.1.jpg)  
   
 [Joi Ito](http://media.ccc.de/filez/congress/2005/lectures/video/mp4/22C3-videos-incomplete-20050423-torrents/22C3-390-en-private_investigations.mp4.torrent) (torrent, 485MB) at the [22nd Chaos Communication Congress (22C3)](http://events.ccc.de/congress/2005//).  
 

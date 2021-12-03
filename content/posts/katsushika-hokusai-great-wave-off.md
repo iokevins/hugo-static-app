@@ -4,7 +4,7 @@ date: 2007-10-01T19:32:00.000-07:00
 draft: false
 ---
 
-[![](http://bp0.blogger.com/_xmqk7LpXiyY/RwGt8VQ8ndI/AAAAAAAAAHU/gaOhkLXKfqk/s320/kevin-schultz-great-wave-off-kanagawa.JPG)](http://bp0.blogger.com/_xmqk7LpXiyY/RwGt8VQ8ndI/AAAAAAAAAHU/gaOhkLXKfqk/s1600-h/kevin-schultz-great-wave-off-kanagawa.JPG)  
+[![](/images/kevin-schultz-great-wave-off-kanagawa320.JPG)](/images/kevin-schultz-great-wave-off-kanagawa.JPG)  
   
 From the New York City Metropolitan Museum of Art:  
 
@@ -35,7 +35,7 @@ Tools used:
 
 UPDATE:  
   
-[![](http://bp2.blogger.com/_xmqk7LpXiyY/R1ONJla3WUI/AAAAAAAAAJE/Ea_g-nGJ_E4/s320/HPIM3563.JPG)](http://bp2.blogger.com/_xmqk7LpXiyY/R1ONJla3WUI/AAAAAAAAAJE/Ea_g-nGJ_E4/s1600-h/HPIM3563.JPG)  
+[![](/images/HPIM3563320.JPG)](/images/HPIM3563.JPG)  
   
 A pic with IKEA [Sansa](http://www.ikea.com/us/en/catalog/products/20095262) low-voltage halogen track lighting system.
 ---

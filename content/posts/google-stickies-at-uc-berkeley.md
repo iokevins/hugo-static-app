@@ -4,7 +4,7 @@ date: 2007-02-23T23:52:00.000-08:00
 draft: false
 ---
 
-[![](http://bp3.blogger.com/_xmqk7LpXiyY/Rd_5QYBl2II/AAAAAAAAADA/DsJDd8nKgIc/s320/google-stickies.jpg)](http://bp3.blogger.com/_xmqk7LpXiyY/Rd_5QYBl2II/AAAAAAAAADA/DsJDd8nKgIc/s1600-h/google-stickies.jpg)  
+[![](/images/google-stickies320.jpg)](/images/google-stickies.jpg)  
 I discovered two of these stickies (click for high-res version) on the doors to the men's bathroom at UC-Berkeley's Soda Hall Friday evening and another two over the sinks inside. How strange. I collected the two over the sinks to see if I might figure out the story behind them.  
   
 Text #1:  

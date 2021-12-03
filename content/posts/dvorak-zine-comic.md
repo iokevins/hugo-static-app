@@ -6,7 +6,7 @@ tags:
 - linux
 ---
 
-[![](http://bp0.blogger.com/_xmqk7LpXiyY/Rza2U1uRFvI/AAAAAAAAAH0/Rqc8i4Lm8o4/s320/typing-behavior-august-dvorak.jpg)](http://bp0.blogger.com/_xmqk7LpXiyY/Rza2U1uRFvI/AAAAAAAAAH0/Rqc8i4Lm8o4/s1600-h/typing-behavior-august-dvorak.jpg)  
+[![](/images/typing-behavior-august-dvorak320.jpg)](/images/typing-behavior-august-dvorak.jpg)  
 Boing Boing [linked](http://www.boingboing.net/2007/11/10/dvorak-funnies-expla.html) to a [Dvorak Zine comic](http://dvzine.org/zine/01-toc.html) today. I've used the [Dvorak](http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) keyboard layout since 2002. Here's how my personal experience compares to claims in the Dvorak Zine Comic:  
 
 1.  It takes 52 hours to retrain

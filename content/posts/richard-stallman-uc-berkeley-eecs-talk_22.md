@@ -6,9 +6,9 @@ tags:
 - linux
 ---
 
-[![](http://bp0.blogger.com/_xmqk7LpXiyY/Rd64J4Bl2HI/AAAAAAAAAC0/ez0TAeNPdbY/s320/stallman.jpg)](http://bp0.blogger.com/_xmqk7LpXiyY/Rd64J4Bl2HI/AAAAAAAAAC0/ez0TAeNPdbY/s1600-h/stallman.jpg)  
+[![](/images/stallman320.jpg)](/images/stallman.jpg)  
   
-[![](http://bp2.blogger.com/_xmqk7LpXiyY/ReFUnoBl2KI/AAAAAAAAADY/ZpqxK2HVHqY/s320/richard-stallman-uc-berkeley-talk-2007-02-21.JPG)](http://bp2.blogger.com/_xmqk7LpXiyY/ReFUnoBl2KI/AAAAAAAAADY/ZpqxK2HVHqY/s1600-h/richard-stallman-uc-berkeley-talk-2007-02-21.JPG)  
+[![](/images/richard-stallman-uc-berkeley-talk-2007-02-21320.JPG)](/images/richard-stallman-uc-berkeley-talk-2007-02-21.JPG)  
   
 Arrival commentary (skip if only interested in talk below):  
 

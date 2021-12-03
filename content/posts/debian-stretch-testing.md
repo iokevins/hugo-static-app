@@ -9,7 +9,7 @@ tags:
 - debian
 ---
 
-[![](http://3.bp.blogspot.com/-2TpK7kZQXYU/VkrSbSMMV5I/AAAAAAAAFi8/Iel877xG0Og/s320/Stretch2.jpg)](http://3.bp.blogspot.com/-2TpK7kZQXYU/VkrSbSMMV5I/AAAAAAAAFi8/Iel877xG0Og/s1600/Stretch2.jpg)
+[![](/images/Stretch2320.jpg)](/images/s1600/Stretch2.jpg)
 
 _[Stretch](http://disney.wikia.com/wiki/Stretch_(Toy_Story_3)), a purple toy rubber octopus, at bottom-right, as featured in the animated film "Toy Story 3"_
 

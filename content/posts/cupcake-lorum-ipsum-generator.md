@@ -9,4 +9,4 @@ Lorum ipsum just got a whole lot sweeter:
 [http://idsgn.dropmark.com/107/2094](http://idsgn.dropmark.com/107/2094)  
   
 
-[![](http://4.bp.blogspot.com/-RxuW3RBBU3Q/T1MDA-S1uBI/AAAAAAAAA8E/mxz9FoqW_uk/s1600/happy_muffin.png)](http://4.bp.blogspot.com/-RxuW3RBBU3Q/T1MDA-S1uBI/AAAAAAAAA8E/mxz9FoqW_uk/s1600/happy_muffin.png)
+[![](/images/happy_muffin.png)](/images/happy_muffin.png)

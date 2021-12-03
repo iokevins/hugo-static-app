@@ -11,7 +11,7 @@ Switching to the third edition, just because.
 **Exercises**  
 2.1-1  Using Figure 2.2 as a model, illustrate the operation of INSERTION-SORT on the array  = < 31, 41, 59, 26, 41, 58 >  
 
-[![](http://2.bp.blogspot.com/-hwsqF1g1XpY/UPIe1VZ2wSI/AAAAAAAABMQ/QRL-zJKrabo/s640/2.1-1.png)](http://2.bp.blogspot.com/-hwsqF1g1XpY/UPIe1VZ2wSI/AAAAAAAABMQ/QRL-zJKrabo/s1600/2.1-1.png)
+[![](/images/2.1-1640.png)](/images/2.1-1.png)
 
 Note: solution produced via free tool [LucidChart](https://www.lucidchart.com/)  
   
@@ -96,13 +96,13 @@ It only needs to run for the first _n_ - 1 elements of _A_ because upon termin
 The algorithm runs in **Θ(n^2):** The outer loop takes _n_ - 1 iterations. The [inner loop](http://www.wolframalpha.com/input/?i=summation&a=*C.summation-_*Calculator.dflt-&f2=k&f=Sum.sumfunction_k&f3=1&f=Sum.sumlowerlimit_1&f4=n-1&x=11&y=9&f=Sum.sumupperlimit_n-1&a=*FVarOpt.1-_**-.***Sum.sumvariable---.*--) takes  
   
 
-[![](http://1.bp.blogspot.com/-m6MuWEzdM0Y/UP41Y_Iny0I/AAAAAAAABM8/Ji9aYekFEhE/s1600/2.2-2_innerloop.gif)](http://1.bp.blogspot.com/-m6MuWEzdM0Y/UP41Y_Iny0I/AAAAAAAABM8/Ji9aYekFEhE/s1600/2.2-2_innerloop.gif)
+[![](/images/2.2-2_innerloop.gif)](/images/2.2-2_innerloop.gif)
 
   
 iterations. Together, both outer and inner take  
   
 
-[![](http://1.bp.blogspot.com/-l8z8EnXuTqo/UP43AeVf5NI/AAAAAAAABNg/HuS9ErJBqhs/s1600/2.2-2_inner_outer.gif)](http://1.bp.blogspot.com/-l8z8EnXuTqo/UP43AeVf5NI/AAAAAAAABNg/HuS9ErJBqhs/s1600/2.2-2_inner_outer.gif)
+[![](/images/2.2-2_inner_outer.gif)](/images/2.2-2_inner_outer.gif)
 
   
 
@@ -110,7 +110,7 @@ where _c_ equals the number of incidental, non-comment lines of code in SELECTI
 
   
 
-[![](http://4.bp.blogspot.com/-PaofRC0-RnE/UP424XV8tPI/AAAAAAAABNQ/Os9f-JFF62A/s1600/2.2-2_complexity.gif)](http://4.bp.blogspot.com/-PaofRC0-RnE/UP424XV8tPI/AAAAAAAABNQ/Os9f-JFF62A/s1600/2.2-2_complexity.gif)
+[![](/images/2.2-2_complexity.gif)](/images/2.2-2_complexity.gif)
 
   
 which equals a running time of Θ(n^2).  
@@ -127,13 +127,13 @@ times. For example, if _A_.length == 100 and we call LINEAR-SEARCH(_A_, _v_) 100
 
 [or](http://www.wolframalpha.com/input/?i=summation&a=*C.summation-_*Calculator.dflt-&f2=k%2Fn&x=12&y=11&f=Sum.sumfunction_k%2Fn&f3=1&f=Sum.sumlowerlimit_1&f4=n&f=Sum.sumupperlimit_n&a=*FVarOpt.1-_**-.***Sum.sumvariable---.*--)  
 
-[![](http://1.bp.blogspot.com/-YYZbnUGGezc/URH0nCIvb2I/AAAAAAAABN0/J-iK7l0-bnk/s1600/MSP26271a540iedb70hff7e000014cdh08g7b7a08h1.gif)](http://1.bp.blogspot.com/-YYZbnUGGezc/URH0nCIvb2I/AAAAAAAABN0/J-iK7l0-bnk/s1600/MSP26271a540iedb70hff7e000014cdh08g7b7a08h1.gif)
+[![](/images/MSP26271a540iedb70hff7e000014cdh08g7b7a08h1.gif)](/images/MSP26271a540iedb70hff7e000014cdh08g7b7a08h1.gif)
 
   
 So, on the average, assuming the element being searched for is equally likely to be any element in the array, LINEAR-SEARCH(_A_, _v_) will check  
   
 
-[![](http://3.bp.blogspot.com/-SzrlxJnGEqI/URH2zZZ3x6I/AAAAAAAABOI/matdoPCfgTs/s1600/MSP15911a5410g29ede96ci00004h21egca6ei4h2g9.gif)](http://3.bp.blogspot.com/-SzrlxJnGEqI/URH2zZZ3x6I/AAAAAAAABOI/matdoPCfgTs/s1600/MSP15911a5410g29ede96ci00004h21egca6ei4h2g9.gif)
+[![](/images/MSP15911a5410g29ede96ci00004h21egca6ei4h2g9.gif)](/images/MSP15911a5410g29ede96ci00004h21egca6ei4h2g9.gif)
 
   
 elements of the input sequence, or a little over one-half of all elements.  
@@ -151,7 +151,7 @@ We can modify almost any algorithm to have a good best-case running time by ensu
 Using Figure 2.4 as a model, illustrate the operation of merge sort on the array _A_ = <3, 41, 52, 26, 38, 57, 9, 49>  
   
 
-[![](http://3.bp.blogspot.com/-EmjoInfV5pY/URM1xIIs4aI/AAAAAAAABOc/wy2AVncMtRk/s640/2.3-1.png)](http://3.bp.blogspot.com/-EmjoInfV5pY/URM1xIIs4aI/AAAAAAAABOc/wy2AVncMtRk/s1600/2.3-1.png)
+[![](/images/2.3-1640.png)](/images/2.3-1.png)
 
   
 Note: solution produced via free tool [LucidChart](https://www.lucidchart.com/)  
@@ -215,7 +215,7 @@ MERGE(_A_, _p_, _q_, _r_)
 Use mathematical induction to show that when _n_ is an exact power of 2, the solution of the recurrence  
   
 
-[![](http://1.bp.blogspot.com/-Lelb2KQNp18/URh0SOML5BI/AAAAAAAABOw/RlODXkTA9uA/s1600/gif.gif)](http://1.bp.blogspot.com/-Lelb2KQNp18/URh0SOML5BI/AAAAAAAABOw/RlODXkTA9uA/s1600/gif.gif)
+[![](/images/gif.gif)](/images/gif.gif)
 
   
 is _T_(_n_) = _n_ lg _n_ (where lg = log base 2).  
@@ -353,7 +353,7 @@ where the constant _c_ represents the time required to solve problems of size
 
   
 
-[![](http://3.bp.blogspot.com/-LluJMpCyV5w/URsuyb55tdI/AAAAAAAABQI/q0PGEtx3ewk/s320/2.3-5.png)](http://3.bp.blogspot.com/-LluJMpCyV5w/URsuyb55tdI/AAAAAAAABQI/q0PGEtx3ewk/s1600/2.3-5.png)
+[![](/images/2.3-5320.png)](/images/2.3-5.png)
 
 Note: solution produced via free tool [LucidChart](https://www.lucidchart.com/)
 

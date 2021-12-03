@@ -7,7 +7,7 @@ tags:
 - debian
 ---
 
-[![](http://4.bp.blogspot.com/-ukGVKADLEus/UarOHlUND7I/AAAAAAAABRs/Qpd3QnCrc7M/s320/wheezy-from-toy-story.jpg)](http://4.bp.blogspot.com/-ukGVKADLEus/UarOHlUND7I/AAAAAAAABRs/Qpd3QnCrc7M/s1600/wheezy-from-toy-story.jpg)
+[![](/images/wheezy-from-toy-story320.jpg)](/images/wheezy-from-toy-story.jpg)
 
   
 _Sound_  

@@ -4,7 +4,7 @@ date: 2007-04-16T15:37:00.000-07:00
 draft: false
 ---
 
-[![](http://bp1.blogger.com/_xmqk7LpXiyY/RiQZL4HQXPI/AAAAAAAAAEk/2AhMUsXIPY8/s320/KX-FP145.jpg)](http://bp1.blogger.com/_xmqk7LpXiyY/RiQZL4HQXPI/AAAAAAAAAEk/2AhMUsXIPY8/s1600-h/KX-FP145.jpg)  
+[![](/images/KX-FP145320.jpg)](/images/KX-FP145.jpg)  
 In a pinch, I purchased the [Panasonic KX-FP145](http://wize.com/fax-machines) fax-machine last week so I might reliably send and receive faxes from my home. I use [SunRocket](http://sunrocket.com/) VOIP service, and purchased it after reviewing their web site for compatibility. SunRocket uses G.711 for VOIP and fax. It also supports T.38 for fax transmissions in cases where a phone company doesn't support G.711.  
   
 The KX-FP145 doesn't come with a pass-through line, so on the advice of a friend I installed a line-cord splitter into the port on the [Gizmo AC-211](https://www.sunrocket.com/_resources/pdf/ac211_install_web.pdf). One line-cord from the splitter goes to the fax machine and the other goes to the phone system (in my case, two SunRocket-provided [Uniden DCT746](http://uniden.com/products/productdetail.cfm?product=DCT746M&page=2) telephones). Panasonic provides a digital version of the KX-FP145 manual [here](http://www2.panasonic.com/webapp/wcs/stores/servlet/vProdSupportModel?displayTab=R&surfModel=KX-FP145&modelNo=KX-FP145&storeId=15001&amp;catalogId=11017&itemId=70389&displayServiceCenter=true#) (PDF, 7MB) if you want to refer to it while reading the following.  

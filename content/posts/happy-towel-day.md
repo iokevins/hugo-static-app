@@ -6,7 +6,7 @@ tags:
 - towel day douglas adams
 ---
 
-[![](http://bp1.blogger.com/_xmqk7LpXiyY/SDosEc_U9YI/AAAAAAAAAME/8AWCeLp2K-A/s320/panic2.jpg)](http://bp1.blogger.com/_xmqk7LpXiyY/SDosEc_U9YI/AAAAAAAAAME/8AWCeLp2K-A/s1600-h/panic2.jpg)  
+[![](/images/panic2320.jpg)](/images/s1600-h/panic2.jpg)  
   
 In memory of Douglas Adams: [http://en.wikipedia.org/wiki/Towel\_Day](http://en.wikipedia.org/wiki/Towel_Day)  
   

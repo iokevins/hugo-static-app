@@ -11,7 +11,7 @@ tags:
 - packagekit
 ---
 
-[![](http://3.bp.blogspot.com/-VwOw31RvHPY/VlS1c_GE9gI/AAAAAAAAFlw/XoA0zFs4NnY/s640/Screenshot%2Bfrom%2B2015-11-24%2B11-07-17.png)](http://3.bp.blogspot.com/-VwOw31RvHPY/VlS1c_GE9gI/AAAAAAAAFlw/XoA0zFs4NnY/s1600/Screenshot%2Bfrom%2B2015-11-24%2B11-07-17.png)
+[![](/images/Screenshot%2Bfrom%2B2015-11-24%2B11-07-17.png)](/images/Screenshot%2Bfrom%2B2015-11-24%2B11-07-17.png)
 
 _Screenshot of GNOME-Software tab "Update", showing option "OS Updates" and button "Restart & Install", at upper-right_
 

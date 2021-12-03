@@ -20,7 +20,7 @@ From the publication “Kelly/Grimes IBM PC compatible computer directory”, c.
 
 CLEO ADVERTISEMENTS  
   
-[![](https://2.bp.blogspot.com/-_yrw9qPM_zc/VLwVRVNkfEI/AAAAAAAAEO4/KnyJzun_Ass/s1600/cleo-ad-1.jpg)](http://2.bp.blogspot.com/-_yrw9qPM_zc/VLwVRVNkfEI/AAAAAAAAEO4/KnyJzun_Ass/s1600/cleo-ad-1.jpg)  
+[![](/images/cleo-ad-1.jpg)](/images/cleo-ad-1.jpg)  
 _It’s beautiful...._  
 CLEO advertisement, BYTE magazine’s July 1983 issue ([via](http://americanradiohistory.com/Archive-Byte/80s/Byte-1983-07.pdf))  
   
@@ -32,7 +32,7 @@ CLEO advertisement, BYTE magazine’s July 1983 issue ([via](http://americanradi
 
   
   
-[![](https://3.bp.blogspot.com/-Pw7M_3G8TBk/VLwVR-BAJPI/AAAAAAAAEO8/uMX6pZHBLf4/s1600/cleo-ad-2.png)](http://3.bp.blogspot.com/-Pw7M_3G8TBk/VLwVR-BAJPI/AAAAAAAAEO8/uMX6pZHBLf4/s1600/cleo-ad-2.png)  
+[![](/images/cleo-ad-2.png)](/images/cleo-ad-2.png)  
 _Magic flying floppy diskette carpets (?) (c. 1985, [via](https://books.google.com/books?id=Ko3YGWQ8Lu0C&pg=PA6&dq=cleo+%22phone+1,+inc%22&hl=en&sa=X&ei=cJK5VPerLomrogTl_YDoAw&ved=0CEMQ6AEwBTgU#v=onepage&q&f=false))_  
   
 CLEO HISTORY  
@@ -52,19 +52,19 @@ CLEO HISTORY
   
 TRADEMARKS OVER TIME - JUST FOR FUN  
   
-[![](https://1.bp.blogspot.com/-Je2HpOnSH_8/VLwWDJlMWvI/AAAAAAAAEPI/sWMpJI0COEQ/s1600/cleo-logo-1.jpg)](http://1.bp.blogspot.com/-Je2HpOnSH_8/VLwWDJlMWvI/AAAAAAAAEPI/sWMpJI0COEQ/s1600/cleo-logo-1.jpg)  
+[![](/images/cleo-logo-1.jpg)](/images/cleo-logo-1.jpg)  
 Circa 1980’s (Phone 1, Inc)...my favorite  
   
-[![](https://3.bp.blogspot.com/-77dc_wSR3WU/VLwWDNvkVJI/AAAAAAAAEPM/dgubvqhQ4xU/s1600/cleo-logo-2.jpg)](http://3.bp.blogspot.com/-77dc_wSR3WU/VLwWDNvkVJI/AAAAAAAAEPM/dgubvqhQ4xU/s1600/cleo-logo-2.jpg)  
+[![](/images/cleo-logo-2.jpg)](/images/cleo-logo-2.jpg)  
 Circa 1996 (ISI)  
   
-[![](https://4.bp.blogspot.com/-n2O-Vm_W5SU/VLwWDF-EqzI/AAAAAAAAEPo/-0wzqRZz_iE/s1600/cleo-logo-3.jpg)](http://4.bp.blogspot.com/-n2O-Vm_W5SU/VLwWDF-EqzI/AAAAAAAAEPo/-0wzqRZz_iE/s1600/cleo-logo-3.jpg)  
+[![](/images/cleo-logo-3.jpg)](/images/cleo-logo-3.jpg)  
 Circa 2001 (DFI)  
   
-[![](https://3.bp.blogspot.com/-xeASYumyL2o/VLwWD-WmPOI/AAAAAAAAEPQ/_5X0ExtjIf0/s1600/cleo-logo-4.jpg)](http://3.bp.blogspot.com/-xeASYumyL2o/VLwWD-WmPOI/AAAAAAAAEPQ/_5X0ExtjIf0/s1600/cleo-logo-4.jpg)  
+[![](/images/cleo-logo-4.jpg)](/images/cleo-logo-4.jpg)  
 Circa 2007 (DFI)  
   
-[![](https://3.bp.blogspot.com/-56DIFN4-6SU/VLwWEKizoCI/AAAAAAAAEPU/Rm-bcj1Rybk/s1600/cleo-logo-5-.jpg)](http://3.bp.blogspot.com/-56DIFN4-6SU/VLwWEKizoCI/AAAAAAAAEPU/Rm-bcj1Rybk/s1600/cleo-logo-5-.jpg)  
+[![](/images/cleo-logo-5-.jpg)](/images/cleo-logo-5-.jpg)  
 Present (Global Equity Partners)  
   
 The end.  

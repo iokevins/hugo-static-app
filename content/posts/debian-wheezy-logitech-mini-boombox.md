@@ -7,7 +7,7 @@ tags:
 - debian
 ---
 
-[![](http://2.bp.blogspot.com/-d1-pMjAAVjI/VIpR8dgUT2I/AAAAAAAAD5o/wV_vqkck7VA/s1600/mini-boombox.png)](http://2.bp.blogspot.com/-d1-pMjAAVjI/VIpR8dgUT2I/AAAAAAAAD5o/wV_vqkck7VA/s1600/mini-boombox.png)
+[![](/images/mini-boombox.png)](/images/mini-boombox.png)
 
 A friend recently gifted me a [Logitech Mini Boombox](http://support.logitech.com/en_us/product/8725) (Model F-00003, p/n 880-000243). Logitech introduced this product in the United States market in 2011 at a price point of about $100.  
   

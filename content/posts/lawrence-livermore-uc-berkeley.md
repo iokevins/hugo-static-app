@@ -4,7 +4,7 @@ date: 2012-03-19T19:50:00.000-07:00
 draft: false
 ---
 
-[![](http://2.bp.blogspot.com/-gnra8WbRNdk/T2fsYvLOf5I/AAAAAAAAA_E/tDjUpQeX8CY/s1600/cal_plush.jpg)](http://2.bp.blogspot.com/-gnra8WbRNdk/T2fsYvLOf5I/AAAAAAAAA_E/tDjUpQeX8CY/s1600/cal_plush.jpg)
+[![](/images/cal_plush.jpg)](/images/cal_plush.jpg)
 
 _Golden slugs to golden bears_
 

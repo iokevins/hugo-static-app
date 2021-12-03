@@ -19,20 +19,20 @@ Images
   
 The default ("sl"):  
   
-[![](http://bp0.blogger.com/_xmqk7LpXiyY/SJS9XuIw2mI/AAAAAAAAAOU/ViVOqHGydWk/s320/sl.png)](http://bp0.blogger.com/_xmqk7LpXiyY/SJS9XuIw2mI/AAAAAAAAAOU/ViVOqHGydWk/s1600-h/sl.png)  
+[![](/images/sl320.png)](/images/sl.png)  
   
 Note: The default, it travels across the screen from right to left, with animated smoke and wheels.  
   
 "-a An accident seems to happen. You’ll feel pity for people who cry for help.":  
-[![](http://bp3.blogger.com/_xmqk7LpXiyY/SJS9wcWojUI/AAAAAAAAAOc/bnBQbTOaXF0/s320/sl-help-help.png)](http://bp3.blogger.com/_xmqk7LpXiyY/SJS9wcWojUI/AAAAAAAAAOc/bnBQbTOaXF0/s1600-h/sl-help-help.png)  
+[![](/images/sl-help-help320.png)](/images/sl-help-help.png)  
   
 Note: the same as the original except it shows two engineers saying "HelpHelp!".  
   
 "-l shows little one.":  
-[![](http://bp1.blogger.com/_xmqk7LpXiyY/SJS93Z5aIeI/AAAAAAAAAOk/ovkJqq7zL0U/s320/sl-little-one.png)](http://bp1.blogger.com/_xmqk7LpXiyY/SJS93Z5aIeI/AAAAAAAAAOk/ovkJqq7zL0U/s1600-h/sl-little-one.png)  
+[![](/images/sl-little-one320.png)](http://bp1.blogger.com/_xmqk7LpXiyY/SJS93Z5aIeI/AAAAAAAAAOk/ovkJqq7zL0U/s1600-h/sl-little-one.png)  
   
 "-F It flies.":  
-[![](http://bp3.blogger.com/_xmqk7LpXiyY/SJS9-jnzElI/AAAAAAAAAOs/ILx-BIRTbz8/s320/sl-it-flies.png)](http://bp3.blogger.com/_xmqk7LpXiyY/SJS9-jnzElI/AAAAAAAAAOs/ILx-BIRTbz8/s1600-h/sl-it-flies.png)  
+[![](/images/sl-it-flies320.png)](/images/sl-it-flies.png)  
   
 Note: the same as the original "sl" but it moves from the lower-right to the upper-left.  
   

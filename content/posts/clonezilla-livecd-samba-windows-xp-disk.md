@@ -4,7 +4,7 @@ date: 2009-06-21T16:04:00.000-07:00
 draft: false
 ---
 
-[![](http://2.bp.blogspot.com/_xmqk7LpXiyY/Sj7HcB_lw3I/AAAAAAAAAiE/8JMhREtJWeo/s320/clonezilla_logo_transparent.gif)](http://2.bp.blogspot.com/_xmqk7LpXiyY/Sj7HcB_lw3I/AAAAAAAAAiE/8JMhREtJWeo/s1600-h/clonezilla_logo_transparent.gif)  
+[![](/images/clonezilla_logo_transparent320.gif)](/images/clonezilla_logo_transparent.gif)  
 Situation: I want to clone a laptop hard drive (30GB of 40GB used) to a destination laptop hard drive (also 40GB, identical hardware) using CloneZilla. I am out of DVDs, unfortunately, and burning tens of CDs does not sound pleasant.  
   
 CloneZilla ([http://clonezilla.org/](http://clonezilla.org/)) and Samba ([http://en.wikipedia.org/wiki/Samba\_(software)](http://en.wikipedia.org/wiki/Samba_%28software%29)) to the rescue! I have a desktop running Windows XP with 200GB storage, so I installed Samba on it and connected using CloneZilla Live to save/restore the image.  

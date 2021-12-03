@@ -8,6 +8,6 @@ Much [better](http://schultkl.blogspot.com/2012/02/defraggler.html) (a shot of D
   
   
 
-[![](http://1.bp.blogspot.com/-o_JS-7BBQAs/T0WqHkpPldI/AAAAAAAAA7Q/VAp9ZmTbjNY/s320/defragged_whitespace.png)](http://1.bp.blogspot.com/-o_JS-7BBQAs/T0WqHkpPldI/AAAAAAAAA7Q/VAp9ZmTbjNY/s1600/defragged_whitespace.png)
+[![](/images/defragged_whitespace320.png)](/images/defragged_whitespace.png)
 
 _After defragmenting whitespace_

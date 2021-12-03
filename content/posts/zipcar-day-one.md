@@ -6,7 +6,7 @@ tags:
 - zipcar
 ---
 
-[![](http://3.bp.blogspot.com/-zTZYPR6CyH0/TfbgAosB_tI/AAAAAAAAA0A/t3fKv31mjsQ/s1600/zipcar.jpg)](http://3.bp.blogspot.com/-zTZYPR6CyH0/TfbgAosB_tI/AAAAAAAAA0A/t3fKv31mjsQ/s1600/zipcar.jpg)
+[![](/images/zipcar.jpg)](/images/zipcar.jpg)
 
 Via [Wikipedia](http://en.wikipedia.org/wiki/Zipcar), "Zipcar is a membership-based car sharing company providing automobile reservations to its members, billable by the hour or day."  
   

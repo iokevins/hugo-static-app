@@ -6,7 +6,7 @@ tags:
 - santa cruz
 ---
 
-[![](http://4.bp.blogspot.com/-A0Ul-_7Qsew/VbLbDYZ5RnI/AAAAAAAAE9o/k5GO-2FABWs/s320/5928790835_c5a3327d46_z.jpg)](http://4.bp.blogspot.com/-A0Ul-_7Qsew/VbLbDYZ5RnI/AAAAAAAAE9o/k5GO-2FABWs/s1600/5928790835_c5a3327d46_z.jpg)
+[![](/images/5928790835_c5a3327d46_z320.jpg)](/images/5928790835_c5a3327d46_z.jpg)
 
   
 

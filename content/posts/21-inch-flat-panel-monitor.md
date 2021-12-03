@@ -5,7 +5,7 @@ draft: false
 ---
 
 Drool. My techno-lust for the day. Not in the budget in the near future unfortunately.  
-[![](http://photos1.blogger.com/blogger/7849/1444/320/21-inch-monitor.jpg)](http://photos1.blogger.com/blogger/7849/1444/1600/21-inch-monitor.jpg)
+[![](/images/21-inch-monitor320.jpg)](/images/21-inch-monitor.jpg)
 ---
 ### Comments:
 #### Hmmmm.... Did you see this at Best Buy??? :)

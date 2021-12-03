@@ -6,7 +6,7 @@ tags:
 - errata compiler dragon book
 ---
 
-[![](http://bp2.blogger.com/_xmqk7LpXiyY/SB6ZlxMvDeI/AAAAAAAAALs/KMayUWvUbeE/s320/dragon_thumb.jpg)](http://bp2.blogger.com/_xmqk7LpXiyY/SB6ZlxMvDeI/AAAAAAAAALs/KMayUWvUbeE/s1600-h/dragon_thumb.jpg)  
+[![](/images/dragon_thumb320.jpg)](/images/dragon_thumb.jpg)  
 Hats off to [Philippe Deschamp](http://www-rocq.inria.fr/qui/Philippe.Deschamp/) (merci) of the [French National Institute for Research in Computer Science and Control](http://www.inria.fr/index.en.html) and [Igor Krassikov](http://kiv.kiev.ua/) (Дякую) for their work on [errata submissions](http://infolab.stanford.edu/%7Eullman/dragon/errata1.html) to the latest [Dragon Book](http://dragonbook.stanford.edu/).  
   
 I found an error with the book (page 528) and at first I thought the errata failed to list it--but it turns out I failed to see the link to the original errata list, which contains quite a few errors--mostly errors involving missing semi-colons, braces, extra parenthesis, and so forth.  

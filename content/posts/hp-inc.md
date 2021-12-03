@@ -10,7 +10,7 @@ Just now understand the double meaning...the HP split leaves the printer busines
   
 I used to work in the enterprise division, so that goes to the new company, HPE, or HP Enterprise. It has a new logo:  
 
-[![](http://3.bp.blogspot.com/-_3XHWs7pmjw/VfoQq51baQI/AAAAAAAAFGs/felFtxyrr_8/s200/HPELogo.jpg)](http://3.bp.blogspot.com/-_3XHWs7pmjw/VfoQq51baQI/AAAAAAAAFGs/felFtxyrr_8/s1600/HPELogo.jpg)
+[![](/images/HPELogo320.jpg)](/images/HPELogo.jpg)
 
   
 Via: [http://www.hpalumni.org/split](http://www.hpalumni.org/split)  

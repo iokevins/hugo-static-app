@@ -7,7 +7,7 @@ tags:
 - debian
 ---
 
-[![](http://3.bp.blogspot.com/-pXyPuoindVE/VHkaz0FeD-I/AAAAAAAADts/tNr_p62jeHY/s1600/ninja.png)](http://3.bp.blogspot.com/-pXyPuoindVE/VHkaz0FeD-I/AAAAAAAADts/tNr_p62jeHY/s1600/ninja.png)
+[![](/images/ninja320.png)](/images/ninja.png)
 
 Installed the [MEAN.io](http://mean.io/) stack today. MEAN represents an acronym which stands for MongoDB, Node.js, Express, and AngularJS.  
   

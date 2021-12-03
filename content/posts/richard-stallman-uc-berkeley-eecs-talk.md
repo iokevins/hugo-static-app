@@ -6,7 +6,7 @@ tags:
 - linux
 ---
 
-[![](http://bp3.blogger.com/_xmqk7LpXiyY/ReFDd4Bl2JI/AAAAAAAAADM/hVLAjwrKDAk/s320/stallman.jpg)](http://bp3.blogger.com/_xmqk7LpXiyY/ReFDd4Bl2JI/AAAAAAAAADM/hVLAjwrKDAk/s1600-h/stallman.jpg)  
+[![](/images/stallman320.jpg)](/images/stallman.jpg)  
   
 Dawn and I visited UC-Berkeley again on Friday, February 23 to attend this second talk by Richard Stallman.  
   

@@ -4,7 +4,7 @@ date: 2011-04-24T22:28:00.000-07:00
 draft: false
 ---
 
-[![](http://4.bp.blogspot.com/-1wGlAwvGZ5s/TbZP5Xkr3hI/AAAAAAAAAzw/dTNbUszMEhs/s320/ws-kst2310-l.jpg)](http://4.bp.blogspot.com/-1wGlAwvGZ5s/TbZP5Xkr3hI/AAAAAAAAAzw/dTNbUszMEhs/s1600/ws-kst2310-l.jpg)
+[![](/images/ws-kst2310-l320.jpg)](/images/ws-kst2310-l.jpg)
 
 Standing desk height roughly the same as my elbow height: 44 inches.  
   

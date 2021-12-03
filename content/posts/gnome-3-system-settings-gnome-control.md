@@ -7,7 +7,7 @@ draft: false
 After manually updating libsane a few weeks ago, it seems my Debian Jessie install (stable) no longer started GNOME 3 System Settings, when I selected it:  
   
 
-[![](http://4.bp.blogspot.com/-DuK8WOzg4a0/VfXUeBpv5kI/AAAAAAAAFGQ/iqlJPrl0zvQ/s320/GNOME3SystemSettings.png)](http://4.bp.blogspot.com/-DuK8WOzg4a0/VfXUeBpv5kI/AAAAAAAAFGQ/iqlJPrl0zvQ/s1600/GNOME3SystemSettings.png)
+[![](/images/GNOME3SystemSettings320.png)](/images/GNOME3SystemSettings.png)
 
 _GNOME 3 User Menu: Selecting icon "System Settings" did nothing_
 
