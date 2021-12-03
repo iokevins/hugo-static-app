@@ -151,7 +151,7 @@ We can modify almost any algorithm to have a good best-case running time by ensu
 Using Figure 2.4 as a model, illustrate the operation of merge sort on the array _A_ = <3, 41, 52, 26, 38, 57, 9, 49>  
   
 
-[![](/images/2.3-1640.png)](/images/2.3-1.png)
+[![](/images/2.3-1320.png)](/images/2.3-1.png)
 
   
 Note: solution produced via free tool [LucidChart](https://www.lucidchart.com/)  
